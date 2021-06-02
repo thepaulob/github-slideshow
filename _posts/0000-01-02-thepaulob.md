@@ -2,5 +2,5 @@
 loyout: slide
 title "Welcome to our seconbd slide"
 -----
-Your text
+more stuff
 Use the left arrow to go back
